@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "updatingicon",
+  "version": "1.0.10",
+  "name": "Updating Icon Mod",
+  "description": "Mod reseting world icon efter every entry",
+  "authors": ["TheEvil4582"],
+  "icon": "icon.png",
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.theevil.updatingicon.IconCleaner"]
+  },
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "minecraft": "1.21.5",
+    "fabric-api": ">=0.128.2+1.21.5"
+  }
+}
