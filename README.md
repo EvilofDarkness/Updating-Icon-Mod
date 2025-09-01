@@ -14,6 +14,7 @@ Why? Because Minecraft insists on keeping outdated icons, and I don't.
 - Fabric Loader 0.17.2
 - Fabric API 0.128.2
 - Java 21+
+  
 Should also work on any version higher tho
 
 ## 🧠 Inspired by
@@ -25,4 +26,5 @@ MIT. Fork it, break it, fix it. Just don’t make it worse 😉
 
 
 — theEvil4582
+
 
