@@ -16,11 +16,11 @@ Why? Because Minecraft insists on keeping outdated icons, and I don't.
 - Java 21+
 
 ## 🧠 Inspired by
-The idea behind "Updating World Icon" by CursedFlames/Cursed1nferno
-https://modrinth.com/mod/updating-world-icon
+The idea behind [Updating World Icon](https://modrinth.com/mod/updating-world-icon) by CursedFlames/Cursed1nferno
 But for 1.21.5 and without mixins
 
 ## 🗨️ License
 MIT. Fork it, break it, fix it. Just don’t make it worse 😉
+
 
 — theEvil4582
